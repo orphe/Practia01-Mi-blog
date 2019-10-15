@@ -1,6 +1,6 @@
 # Practia01-Mi-blog
 - **Tu blog de Pokemón**
-    Dentro de esta página se muestra información relacionada con la franquicia Pokémon, enfocado principalmente en los video juegos.
+     Dentro de esta página se muestra información relacionada con la franquicia Pokémon, enfocado principalmente en los            video    juegos.
  - **Estructura de la página** 
     - **HEAD**
         * En la cabezera de una página web se ubica lo que es el logo principal que se va a mostrar, además de eso se puede             incluir lo que es un menu de navegación que facilite al usuario poder moverse entre esta.
